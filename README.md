@@ -1,5 +1,5 @@
 # Simple test projet
-Folowing code will not work with Coverity 2023.6.1
+Following code will not work with Coverity 2023.6.1
 
 ## commands
 ```
